@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Kelly!
 
 <!--
 **kellys1210/kellys1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a current Computer Science student at Oregon State University and a Registered Nurse in the Operating Room!
+
+I can be reached at kellys1210@gmail.com
+
+😻
