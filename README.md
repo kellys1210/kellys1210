@@ -19,4 +19,3 @@ I am a current Computer Science student at Oregon State University and a Registe
 
 I can be reached at kellys1210@gmail.com
 
-😻
