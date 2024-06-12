@@ -1,24 +1,15 @@
-### Hi, I'm Kelly!
+# Hi, I'm Kelly!
 
-<!--
-**kellys1210/kellys1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am an Operating Room Nurse with a passion for technology. Currently pursuing a Bachelor of Computer Science at Oregon State University, I am eager to transition my career into the tech industry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In between classes, I'm working on developing a road trip planning app and constantly adding new features to enhance user experience.
 
-I am a current Computer Science student at Oregon State University and a Registered Nurse in the Operating Room!
-
-I can be reached at kellys1210@gmail.com
+## Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kellys1210/)](https://www.linkedin.com/in/kellys1210/)
+
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:kellys1210@gmail.com)
 
 
