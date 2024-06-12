@@ -8,7 +8,7 @@ In between classes, I'm working on developing a road trip planning app and const
 
 ## Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kellys1210/)](https://www.linkedin.com/in/kellys1210/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kellycshields/)](https://www.linkedin.com/in/kellycshields/)
 
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:kellys1210@gmail.com)
 
