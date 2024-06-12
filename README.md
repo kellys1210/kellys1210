@@ -19,3 +19,6 @@ I am a current Computer Science student at Oregon State University and a Registe
 
 I can be reached at kellys1210@gmail.com
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kellys1210/)](https://www.linkedin.com/in/kellys1210/)
+
+
