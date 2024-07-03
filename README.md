@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an Operating Room Nurse with a passion for technology. Currently pursuing a Bachelor of Computer Science at Oregon State University.
+I am an Operating Room Nurse transitioning my career to tech. Currently pursuing a Bachelor of Computer Science at Oregon State University.
 
 ## Get in Touch
 
