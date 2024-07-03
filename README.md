@@ -2,9 +2,7 @@
 
 ## About Me
 
-I am an Operating Room Nurse with a passion for technology. Currently pursuing a Bachelor of Computer Science at Oregon State University, I am eager to transition my career into the tech industry.
-
-In between classes, I'm working on developing a road trip planning app and constantly adding new features to enhance user experience.
+I am an Operating Room Nurse with a passion for technology. Currently pursuing a Bachelor of Computer Science at Oregon State University.
 
 ## Get in Touch
 
